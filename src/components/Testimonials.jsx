@@ -5,6 +5,9 @@ import Wrapper from "./Wrapper";
 import Div from "./Div";
 import pe1 from "../assets/sec-4-p-e-1.png";
 import pe2 from "../assets/sec-4-p-e-2.png";
+import ayush from "../assets/ayush.jpg"
+import jatin from "../assets/jatin.jpg"
+import rohan from "../assets/rohan.jpg"
 
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
@@ -50,7 +53,7 @@ const Testimonials = () => {
                         <div className="text-black flex items-center flex-col px-[25px] md:px-[50px] py-[50px]">
                             <div className="mb-[25px]">
                                 <img
-                                    src="https://i.pravatar.cc/300"
+                                    src={ayush}
                                     className="w-[80px] h-[80px] max-w-[80px] rounded-full"
                                 />
                                 <div className="font-bold">Shyam Sundar</div>
@@ -59,14 +62,7 @@ const Testimonials = () => {
                                 </div>
                             </div>
                             <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Ut
-                                enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in
-                                reprehenderit in voluptate velit esse cillum
-                                dolore eu fugiat nulla pariatur.
+                            I worked with Ishu pathak in a project related to my college . He is a very sincere person who works with the deadline and work very professionally .
                             </div>
                         </div>
                         {/* SLIDE END */}
@@ -74,23 +70,16 @@ const Testimonials = () => {
                         <div className="text-black flex items-center flex-col px-[25px] md:px-[50px] py-[50px]">
                             <div className="mb-[25px]">
                                 <img
-                                    src="https://i.pravatar.cc/300"
+                                    src={jatin}
                                     className="w-[80px] h-[80px] max-w-[80px] rounded-full"
                                 />
-                                <div className="font-bold">John Doy</div>
+                                <div className="font-bold">Jatin Agarwal</div>
                                 <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
                                     Client
                                 </div>
                             </div>
                             <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Ut
-                                enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in
-                                reprehenderit in voluptate velit esse cillum
-                                dolore eu fugiat nulla pariatur.
+                            I worked with Ishu pathak in a project related to my college . He is a very sincere person who works with the deadline and work very professionally .
                             </div>
                         </div>
                         {/* SLIDE END */}
@@ -98,23 +87,16 @@ const Testimonials = () => {
                         <div className="text-black flex items-center flex-col px-[25px] md:px-[50px] py-[50px]">
                             <div className="mb-[25px]">
                                 <img
-                                    src="https://i.pravatar.cc/300"
+                                    src={rohan}
                                     className="w-[80px] h-[80px] max-w-[80px] rounded-full"
                                 />
-                                <div className="font-bold">John Doy</div>
+                                <div className="font-bold">Rohan Sarna</div>
                                 <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
                                     Client
                                 </div>
                             </div>
                             <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Ut
-                                enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in
-                                reprehenderit in voluptate velit esse cillum
-                                dolore eu fugiat nulla pariatur.
+                                I worked with Ishu pathak in a project related to my college . He is a very sincere person who works with the deadline and work very professionally .
                             </div>
                         </div>
                         {/* SLIDE END */}
