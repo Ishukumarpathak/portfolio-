@@ -65,7 +65,7 @@ export const achievements = [
     },
     {
         id: 2,
-        year: 1.5,
+        year: 1.5 ,
         description: "YEARS OF<br />EXPERIENCE",
     },
     {
