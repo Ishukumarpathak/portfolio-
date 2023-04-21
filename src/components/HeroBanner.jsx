@@ -24,15 +24,14 @@ const HeroBanner = () => {
         className="hidden md:block sec-1-bg-gradient-1-desktop md:w-[1120px] 2xl:w-[1420px] md:h-[1119px] 2xl:h-[1419px] absolute md:left-[1000px] 2xl:left-[1309px] -top-[709px]"
       />
       <span className="hidden md:block sec-1-bg-gradient-2-desktop md:w-[1120px] 2xl:w-[1420px] md:h-[1119px] 2xl:h-[1419px] absolute left-[105px] top-[672px] md:top-[500px] 2xl:top-[672px]" />
-      {/* BACKGROUND ELEMENTS FOR DESKTOP END */}
+      
 
-      {/* BACKGROUND ELEMENTS FOR DESKTOP START */}
       <span className="md:hidden sec-1-bg-gradient-1-mobile absolute w-[212px] h-[211px] left-[285px] -top-[25px]" />
       <span className="md:hidden sec-1-bg-gradient-2-mobile absolute w-[636px] h-[635px] -left-[334px] top-[672px]" />
-      {/* BACKGROUND ELEMENTS FOR DESKTOP END */}
+     
 
       <Wrapper>
-        {/* NAVBAR START */}
+     
         <motion.div
         
           className="hidden md:flex items-center justify-between mt-[40px] 2xl:mt-[63px] relative"
@@ -73,9 +72,7 @@ const HeroBanner = () => {
             </li>
           </ul>
         </motion.div>
-        {/* NAVBAR END */}
-
-        {/* BIG HEADING START */}
+      
         <motion.div
           className="flex justify-center text-center mt-14 mb-10 relative"
           initial={{ opacity: 0, scale: 0.5 }}
