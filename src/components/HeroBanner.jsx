@@ -34,6 +34,7 @@ const HeroBanner = () => {
       <Wrapper>
         {/* NAVBAR START */}
         <motion.div
+        
           className="hidden md:flex items-center justify-between mt-[40px] 2xl:mt-[63px] relative"
           initial={{ y: -200, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
