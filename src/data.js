@@ -34,7 +34,6 @@ export const projects = [
         name: "An official Quizbizz Club Website",
         image: p2,
         tags: ["dashboard", "website"],
-        link:["https://ishukumarpathak.github.io/QuizBizz-Website/"],
     },
     {
         name: "CyberCrack event promotion webgame",
