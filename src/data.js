@@ -28,7 +28,7 @@ export const projects = [
     {
         name: "Kharidi Karo - A website for INDIAN Products",
         image: p1,
-        href: "www.css.com",
+        
         tags: ["dashboard", "mobile-app"],
     },
     {
