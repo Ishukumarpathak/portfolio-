@@ -56,6 +56,12 @@ const HeroBanner = () => {
               className="cursor-pointer px-5 py-2 hover:bg-slate-900 transition active:scale-90 rounded-lg"
               onClick={() => scrollTo("skills")}
             >
+              Now
+            </li>
+            <li
+              className="cursor-pointer px-5 py-2 hover:bg-slate-900 transition active:scale-90 rounded-lg"
+              onClick={() => scrollTo("skills")}
+            >
               Skills
             </li>
             <li
